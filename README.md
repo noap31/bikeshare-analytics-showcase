@@ -6,7 +6,7 @@ Everything in this repo — the data-cleaning pipeline, the revenue model, the s
 
 **[Read the full findings write-up →](./findings.md)**
 
-## Team & my role
+## Team
 
 This was a 3-person team capstone project for the Google & Reichman University AI Tech School Data Analyst Program (team: Noa Palevsky, Dolae Arbaieter, Yael Levi).
 
