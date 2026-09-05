@@ -23,7 +23,7 @@ This was a 3-person team capstone project for the Google & Reichman University A
 |---|---|
 | [`zen_city_bikeshare_analysis.sql`](./zen_city_bikeshare_analysis.sql) | The full SQL pipeline: raw data exploration, a reusable cleaning + trip-revenue CTE chain, and every downstream analysis query, each with a detailed explanation of the business question and method behind it. |
 | [`findings.md`](./findings.md) | The results write-up — what the queries found, with the real numbers and charts behind each claim. |
-| `01_...png` – `09_...png` | Chart images referenced in the findings write-up (kept in the same folder as everything else, not a subfolder). |
+| `01_...png` – `09_...png` | Chart images referenced in the findings write-up 
 
 ## Data
 
